@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Gana Mohamed 👋 
+### (جنى محمد محمد عبد النبي)
+
+- 🎓 Computer Science Student 
+- 🔭 I’m currently learning Web Development 
+- 🌱 I’m currently working on my GitHub Student Developer Pack 
+- ⚡ Fun fact: I love solving problems with code!
